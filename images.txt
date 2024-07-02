@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:latest
 ghcr.io/open-webui/open-webui:cuda
